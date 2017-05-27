@@ -147,3 +147,8 @@ public class UserController {
 ```shell
 mvn clean install
 ```
+
+### 9. 访问网址
+- get: http://localhost:8080/rest/user/all
+- post: http://localhost:8080/rest/user/save
+  - JSON: {"name": "tom"}
