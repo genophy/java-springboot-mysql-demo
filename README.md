@@ -1,5 +1,7 @@
 # springboot-mysql-demo
 ## 项目建立步骤
+- 提供的代码为临时的【mysql-demo】项目
+- 下文将介绍实现思路
 ### 1. 初始化项目包
 - 访问官方网址[https://start.spring.io/](https://start.spring.io/)， 设置 **Dependencies** 为 **【MySQL】【JPA】【Web】** ，其余自定义，然后下载
 ### 2. 引用项目
